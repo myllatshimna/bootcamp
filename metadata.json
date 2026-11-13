@@ -1,0 +1,6 @@
+{
+  "name": "Klangwerk Studio",
+  "description": "Minimalist multi-track audio workstation, precision hardware library, and session log inspired by Leica and Teenage Engineering.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
